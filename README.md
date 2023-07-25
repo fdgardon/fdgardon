@@ -1,6 +1,7 @@
+<image align="center" height="400" width="1000" src="https://media.tenor.com/GVk4jB2u_i8AAAAd/coding.gif">
 <h1 align="center">Hi 👋, I'm Farid Gardoon</h1>
 <h3 align="center">I am a full-stack developer and I have completed full stack coding boot camp at UC Davis. I have done a couple of projects successfully. I have ten years of experience in project management and leading team.</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077//screenshots/3848914/programmer.gif">
+<image align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif">
 
 - 📫 How to reach me **fdgardon@gmail.com**
 
