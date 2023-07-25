@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Farid Gardoon</h1>
-<h3 align="center">I am full stack developer and I have completed full stack coding boot camp at UC Davis.</h3>
-
+<h3 align="center">I am a full-stack developer and I have completed full stack coding boot camp at UC Davis. I have done a couple of projects successfully. I have ten years of experience in project management and leading team.</h3>
+<img align="right" alt="Coding" width="400" src="https://outlane.co/now/new-shot-programmer-animation/">
 - 📫 How to reach me **fdgardon@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1oJDtcN1D-TSgULRPnznDiW6Y0do8bjfM/view?usp=sharing](https://drive.google.com/file/d/1oJDtcN1D-TSgULRPnznDiW6Y0do8bjfM/view?usp=sharing)
