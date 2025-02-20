@@ -1,9 +1,9 @@
 <image align="center" height="250" width="1000" src="https://media.tenor.com/GVk4jB2u_i8AAAAd/coding.gif">
-<h1 align="center">Hi 👋, I'm Far Eed</h1>
-<h3 align="center">I am a full-stack developer and I have completed full stack coding boot camp at UC Davis. I have done a couple of projects successfully. I have ten years of experience in project management and leading team.</h3>
+<h1 align="center">Hi 👋, I'm Fred</h1>
+<h3 align="center">I am a student and I have completed full stack coding boot camp at UC Davis. I have done a couple of projects successfully. I have ten years of experience in project management and leading team.</h3>
 <image align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif">
 
-- 📫 How to reach me **fdgardon@gmail.com**
+- 📫 How to reach me **fred@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1oJDtcN1D-TSgULRPnznDiW6Y0do8bjfM/view?usp=sharing](https://drive.google.com/file/d/1oJDtcN1D-TSgULRPnznDiW6Y0do8bjfM/view?usp=sharing)
 
